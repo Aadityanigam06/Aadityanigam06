@@ -78,3 +78,27 @@ maintainable software and understanding how systems work under the hood.
 <p align="center">
   <i>Always building. Always learning.</i>
 </p>
+
+
+---
+
+<div align="center">
+
+### 🐍 Watch my contributions get eaten!
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Aadityanigam06/Aadityanigam06/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Aadityanigam06/Aadityanigam06/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Aadityanigam06/Aadityanigam06/output/github-snake.svg"
+  />
+</picture>
+
+</div>
