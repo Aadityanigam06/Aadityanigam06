@@ -54,20 +54,17 @@ maintainable software and understanding how systems work under the hood.
 | [Markdown Editor](https://github.com/Aadityanigam06/Markdown-Editor) | Markdown editing application | JavaScript |
 
 ## `$ git status`
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aadityanigam06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityanigam06&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aadityanigam06&theme=tokyonight&hide_border=true" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aadityanigam06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues,contribs" />
+
+</div>
 
 ## `$ connect`
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/aaditya-nigam-student">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Aadityanigam06">
